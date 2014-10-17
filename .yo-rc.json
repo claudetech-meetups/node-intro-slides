@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "NodeJS introduction",
+    "packageVersion": "0.1.0",
+    "useSass": true
+  }
+}

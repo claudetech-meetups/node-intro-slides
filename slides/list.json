@@ -1,7 +1,42 @@
 [
     "index.md",
     "plan.md",
-    "callbacks.md",
+    [
+        "about-callbacks.md",
+        "without-callbacks.md",
+        "with-callbacks.md",
+        "sync-example.md",
+        "async-example.md"
+    ],
+    "before-starting.md",
     "cli-app.md",
-    "project-preparation.md"
+    "project-preparation.md",
+    [
+        "shorten.md",
+        "shorten-2.md",
+        "shorten-3.md",
+        "shorten-4.md",
+        "shorten-5.md",
+        "shorten-6.md"
+    ],
+    "try-shorten.md",
+    [
+        "cli.md",
+        "cli-2.md",
+        "cli-3.md",
+        "cli-4.md"
+    ],
+    [
+        "login.md",
+        "login-2.md",
+        "login-3.md",
+        "login-4.md",
+        "login-5.md"
+    ],
+    "config.md",
+    "finish-up.md",
+    [
+        "use-program.md",
+        "use-program-2.md"
+    ]
 ]

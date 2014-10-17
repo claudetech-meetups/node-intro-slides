@@ -31,9 +31,9 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
             sass:
-                files: ['css/source/theme.scss']
+                files: ['css/source/theme.scss', 'css/source/custom.scss']
                 tasks: ['sass']
 
         sass:
@@ -41,7 +41,7 @@ module.exports = (grunt) ->
             theme:
                 files:
                     'css/theme.css': 'css/source/theme.scss'
-        
+
         connect:
 
             livereload:

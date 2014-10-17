@@ -3,17 +3,9 @@
 Create a CLI application that
 shorten the given URL using the bitly API.
 
+The objectives of theses slides are to:
+
 * Familiarize with NodeJS and npm
+* Familiarize with callbacks
 * Try the Node standard library
 * Try to install and use node packages
-
-<br>
-
-## Create web API
-
-Create a web API compatible with
-[last AngularJS study meeting](http://meetups.claudetech.com/1-angular-intro/#/).
-
-* Use Node as an HTTP backend
-* Try Express framework
-* Try using an ORM
